@@ -1,0 +1,25 @@
+[
+    {
+        "id":"DEX24561",
+        "customer":"John Smith",
+        "status":"In Transit",
+        "location":"Singapore Port",
+        "delivery":"2026-07-02"
+    },
+
+    {
+        "id":"DEX78452",
+        "customer":"Michael Lee",
+        "status":"Customs Clearance",
+        "location":"Bangladesh Port",
+        "delivery":"2026-07-06"
+    },
+
+    {
+        "id":"DEX98211",
+        "customer":"Sarah Wilson",
+        "status":"Delivered",
+        "location":"New York",
+        "delivery":"2026-06-25"
+    }
+]
